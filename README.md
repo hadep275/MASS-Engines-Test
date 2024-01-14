@@ -4,7 +4,7 @@ Welcome to the MASS Engines Email Template repository! This HTML email template 
 
 ## Demo
 
-Check out the live demo of the email template [here](#).
+Check out the live demo of the email template [here](https://hadep275.github.io/MASS-Engines-Test/).
 
 ## Table of Contents
 
